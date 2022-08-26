@@ -41,3 +41,7 @@
         
 ### Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/skillcate/flight-price-prediction/issues) by including your search query and the expected result.
+
+### Important links:
+* [Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
+* [Project Folder on Drive](https://drive.google.com/drive/folders/1vnapi048bbmoXyoxOLLX6W_tA6a1uQ9w?usp=sharing)
